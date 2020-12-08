@@ -9,17 +9,17 @@ ignore_prefix:
  - dj
 servers:
 - server:
-  host: HOSTNAME
+  host: ghales.top
   port: 2051
   anonymous: false
   user_name: chatbot
-  user_password: CHANGEPASSWORD
+  user_password: bCrK7RSh3t6SFkn8
 - server:
-  host: HOSTNAME
+  host: ghales.top
   port: 2050
   anonymous: false
   user_name: chatbot
-  user_password: CHANGEPASSWORD
+  user_password: bCrK7RSh3t6SFkn8
 telegram:
   token: TELEGRAM_TOKEN
   chat_id: -1111111111111111

@@ -10,12 +10,12 @@ tracks_dir: /home/dj/tracks/
 lv2host_config: /etc/lv2host.yaml
 private_key_path: /etc/ninjam/private.pem
 public_key_path: /etc/ninjam/public.pem
-default_admin_password: ADMINPASSWORD
+default_admin_password: D9n0MfhMWsFEUnQM
 server:
-  host: HOSTNAME
+  host: ghales.top
   port: 2050
   anonymous: false
   user_name: dj
-  user_password: CHANGEPASSWORD
+  user_password: bCrK7RSh3t6SFkn8
 player:
   dir: /home/dj/tracks/

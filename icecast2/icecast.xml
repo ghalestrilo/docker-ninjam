@@ -22,13 +22,13 @@
 
     <authentication>
         <!-- Sources log in with username 'source' -->
-        <source-password>CHANGEPASSWORD</source-password>
+        <source-password>bCrK7RSh3t6SFkn8</source-password>
         <!-- Relays log in username 'relay' -->
-        <relay-password>CHANGEPASSWORD</relay-password>
+        <relay-password>bCrK7RSh3t6SFkn8</relay-password>
 
         <!-- Admin logs in with the username given below -->
         <admin-user>admin</admin-user>
-        <admin-password>CHANGEPASSWORD</admin-password>
+        <admin-password>bCrK7RSh3t6SFkn8</admin-password>
     </authentication>
 
     <!-- set the mountpoint for a shoutcast source to use, the default if not
