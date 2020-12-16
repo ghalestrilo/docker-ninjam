@@ -2,7 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web:
-    command:
-      - ./ninjamsrv config.cfg
-    image: web
+  web: "./run.sh"
