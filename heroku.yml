@@ -3,6 +3,6 @@ build:
     web: Dockerfile
 run:
   web:
-    command: ./ninjamsrv config.cfg
+    command:
+      - ./ninjamsrv config.cfg
     image: web
-    ports: "2049:2049"
